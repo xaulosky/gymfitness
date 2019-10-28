@@ -54,7 +54,7 @@
 <section class="instructores">
     <div class="contenedor seccion">
         <h2 class="texto-primario text-center">Nuestros instructores</h2>
-        <p class="text-center">Instructores profesionales que te ayudarán a lograr tus objetivos</p>
+        <p class="text-center">Instructores profesionales que te ayudaran a lograr tus objetivos</p>
         <ul class="listado-instructores">
             <?php 
                     $args = array(
